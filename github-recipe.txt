@@ -6,6 +6,6 @@ Ingredients:
 Directions:
  1. Go to github.com and sign up for an account
  
- 2. Read instructions and push the original content to a new recipe
+ 2. Read instructions and push the original content to a new repository
  3. You're all set!
 
